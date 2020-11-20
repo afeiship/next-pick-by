@@ -8,12 +8,12 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-pick-by
+npm install -S @jswork/next-pick-by
 ```
 
 ## usage
 ```js
-import '@feizheng/next-pick-by';
+import '@jswork/next-pick-by';
 
 const object = {
   'a': 1,
@@ -42,14 +42,14 @@ const res = nx.pickBy(object, function (key, value, item) {
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-pick-by/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/next-pick-by
-[version-url]: https://npmjs.org/package/@feizheng/next-pick-by
+[version-image]: https://img.shields.io/npm/v/@jswork/next-pick-by
+[version-url]: https://npmjs.org/package/@jswork/next-pick-by
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/next-pick-by
+[license-image]: https://img.shields.io/npm/l/@jswork/next-pick-by
 [license-url]: https://github.com/afeiship/next-pick-by/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/next-pick-by
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/next-pick-by
 [size-url]: https://github.com/afeiship/next-pick-by/blob/master/dist/next-pick-by.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/next-pick-by
-[download-url]: https://www.npmjs.com/package/@feizheng/next-pick-by
+[download-image]: https://img.shields.io/npm/dm/@jswork/next-pick-by
+[download-url]: https://www.npmjs.com/package/@jswork/next-pick-by
