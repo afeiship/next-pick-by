@@ -3,7 +3,7 @@
  * description: Pick value from object by callback.
  * homepage: https://github.com/afeiship/next-pick-by
  * version: 1.0.0
- * date: 2020-11-20 17:34:01
+ * date: 2020-11-20 17:35:36
  * license: MIT
  */
 
